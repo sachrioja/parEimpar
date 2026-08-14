@@ -1,3 +1,4 @@
+//número par ó impar
 #include <iostream>
 #include <conio.h>
 
